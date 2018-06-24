@@ -1,0 +1,15 @@
+current directory: /Users/mat4645/Desktop/ruby/mugnit_apps/HerokuApp/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/mat4645/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180624-55417-vmd0c0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/mat4645/Desktop/ruby/mugnit_apps/HerokuApp/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/mat4645/Desktop/ruby/mugnit_apps/HerokuApp/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/mat4645/Desktop/ruby/mugnit_apps/HerokuApp/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180624-55417-ho3bng/bindex
